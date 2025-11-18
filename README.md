@@ -12,7 +12,7 @@
    - Remove correlated features
          
 4. Data Splitting
-   - Train/Test = 70:15:15
+   - Train/Test = 80:20
    - Stratified sampling
          
 5. Handle Class Imbalance
@@ -31,4 +31,5 @@
 8. Model Deployment
    - Save model using Pickle
    - Deploy via Flask / FastAPI / Streamlit
+   - accuracy = 88%
 3. <img width="399" height="399" alt="image" src="https://github.com/user-attachments/assets/4b0152b1-1872-44f5-91fe-25fa6ff9d929" />
